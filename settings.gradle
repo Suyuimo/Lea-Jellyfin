@@ -1,0 +1,4 @@
+rootProject.name = "lea-synology-proxy"
+
+// Lea-Hauptprojekt als Build-Quelle (liegt im Ordner daneben)
+includeBuild("../Lea")

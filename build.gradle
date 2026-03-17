@@ -1,0 +1,20 @@
+plugins {
+  id 'java'
+}
+
+group = "de.weinschenk.lea.modules"
+version = "0.1.0"
+
+java {
+  toolchain {
+    languageVersion = JavaLanguageVersion.of(21)
+  }
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  implementation("de.weinschenk.lea:lea-api:0.1.0")
+}
