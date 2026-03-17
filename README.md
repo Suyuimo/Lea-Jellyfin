@@ -1,6 +1,6 @@
 # lea-synology-proxy
 
-Lea-Plugin zum Steuern des Synology DSM Reverse Proxys per Signal-Nachricht.
+Lea-Plugin zum Steuern des Synology DSM Reverse Proxys per Matrix-Nachricht.
 Damit lässt sich z.B. Jellyfin schnell von außen erreichbar machen oder wieder absichern.
 
 ## Konfiguration
